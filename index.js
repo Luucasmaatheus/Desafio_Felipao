@@ -1,7 +1,7 @@
 // Variáveis
 
 let nomeHeroi = "Trojan"
-let xpHeroi = 5001
+let xpHeroi = 100
 
 // estrutura de decisão
 
