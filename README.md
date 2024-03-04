@@ -1,1 +1,8 @@
 Durante o Bootcamp de Formação Lógica de programação, explorei variáveis e estruturas de decisão em JavaScript. Aprendi a declarar variáveis e atribuir valores, além de utilizar estruturas condicionais para tomar diferentes caminhos em um programa. Em um projeto prático, desenvolvi um programa que determinava o nível de um herói com base em sua experiência acumulada. A experiência fortaleceu meu entendimento em JavaScript e a importância da prática na programação. Saí do Bootcamp confiante em minhas habilidades e pronto para enfrentar desafios de desenvolvimento de software.
+
+About "desafio1" - Neste exercício, um script em JavaScript foi elaborado para determinar o status de um personagem em um jogo fictício, com base em sua pontuação de experiência (xpHeroi). O código utiliza uma série de condições para classificar o personagem em diferentes níveis, dependendo da sua pontuação acumulada. O resultado final é exibido no console, mostrando o nome do personagem e o seu respectivo nível. Este exemplo demonstra a utilização de variáveis, estruturas condicionais e saída de dados em JavaScript para criar uma lógica de classificação em um programa.
+
+About "desafio2" - Esta atividade consiste em um programa simples em JavaScript que calcula o saldo de partidas ranqueadas de um herói em um jogo fictício. O saldo é determinado subtraindo o número de derrotas do número de vitórias. Com base nesse saldo, o programa utiliza estruturas condicionais para determinar o nível do herói. O código inclui uma função que calcula o saldo e determina o nível do herói, e depois imprime esses valores no console. Essa atividade destaca o uso de funções e estruturas condicionais em JavaScript para tomada de decisões e cálculos.
+
+
+
